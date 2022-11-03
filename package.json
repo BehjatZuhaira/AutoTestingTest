@@ -1,12 +1,20 @@
 {
   "name": "jest-practice",
   "version": "1.0.0",
-  "description": "",
   "main": "sum.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BehjatZuhaira/AutoTestingTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BehjatZuhaira/AutoTestingTest/issues"
+  },
+  "homepage": "https://github.com/BehjatZuhaira/AutoTestingTest#readme",
+  "description": ""
 }
